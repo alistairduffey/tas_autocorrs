@@ -1,0 +1,7 @@
+#ignore all .a files
+*.csv
+
+
+# ignore all files in any directory named build
+temperature_autocorrelations/
+
